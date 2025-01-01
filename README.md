@@ -9,10 +9,10 @@ This is a basic calculator application that takes two numbers and an operator as
 ## Usage
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/pawanU02/Dart-simple-calculator.git
-   cd Dart-simple-calculator
-   ```
+```bash
+git clone https://github.com/pawanU02/Dart-simple-calculator.git
+cd Dart-simple-calculator
+```
 2. Run the calculator:
   ```bash
   dart 1_simple_calculator.dart
