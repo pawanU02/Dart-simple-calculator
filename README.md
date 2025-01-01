@@ -23,7 +23,7 @@ This is a basic calculator application that takes two numbers and an operator as
    
    Enter number (n1): 10
    Enter number (n2): 5
-   Select an operator: +, -, /, *: +
+   Select an operator (+ - / *): +
    Result: 10.0 + 5.0 = 15.0
    ``` 
 ### Requirements
